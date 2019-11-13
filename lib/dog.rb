@@ -1,4 +1,4 @@
-=-0987654321` ? class Dog
+class Dog
   def initialize(name, breed="Mutt")
     @name = name
     @breed = breed
